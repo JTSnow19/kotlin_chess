@@ -5,7 +5,7 @@ I have been yearning to create my own mini chess program for some time now, and 
 Kotlin was an excellent tool to utilize, and I'm quite fond of the ease of use/setup to attain results of this manner in such quick time.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ZYmB4zTAQGA)
 
 # Development Environment
 
